@@ -1,0 +1,2 @@
+# App-Trend-Analysis-Maximizing-Advertising-Impact-Google-play-
+This repository contains a data analysis project on Google Play Store applications for Zoom Ads, aimed at identifying trends and features of popular apps to optimize advertising strategies and maximize profits. The analysis includes univariate and bivariate assessments, along with visualizations for insights into the Android app market
